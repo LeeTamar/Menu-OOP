@@ -1,0 +1,3 @@
+C:/Users/leeza/CLionProjects/ooExercise1cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/leeza/CLionProjects/ooExercise1cpp/cmake-build-debug/CMakeFiles/ooExercise1cpp.dir
+C:/Users/leeza/CLionProjects/ooExercise1cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
